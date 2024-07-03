@@ -1,2 +1,10 @@
-# irctc-backend
-irctc-backend with authorization and admin api middleware
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install  
+  npm run dev
+```
+    
